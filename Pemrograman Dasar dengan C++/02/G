@@ -10,7 +10,7 @@ int main() {
  
     // setelah bulan pertama
 	betina += jantan;
-	jantan -= ( jantan / 3 );
+	jantan -= (jantan / 3);
  
     // setelah bulan kedua
 	jantan += betina;
