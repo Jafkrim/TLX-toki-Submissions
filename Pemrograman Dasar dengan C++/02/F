@@ -1,2 +1,3 @@
 C. empatSekawan_
-B. std::string sandi_lama = "5"; int sandi_baru = sandi_lama;
+B. std::string sandi_lama = "5";
+   int sandi_baru = sandi_lama;
