@@ -7,8 +7,8 @@ int main() {
     cout << sandi << endl;
 
     // kata sandi bulan kedua
-    cout << ( sandi *= 23 ) << endl;
+    cout << (sandi *= 23) << endl;
 
     // kata sandi bulan ketiga
-    cout << ( sandi *= 23 ) << endl;
+    cout << (sandi *= 23) << endl;
 }
