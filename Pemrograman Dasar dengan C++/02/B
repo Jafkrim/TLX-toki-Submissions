@@ -8,5 +8,5 @@ int main() {
     cout << panjang * lebar << endl;
 
     // cetak keliling kandang
-    cout << 2 * ( panjang + lebar ) << endl;
+    cout << 2 * (panjang + lebar) << endl;
 }
